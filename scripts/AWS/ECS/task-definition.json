@@ -1,0 +1,13 @@
+{
+  "memory": 300,
+  "portMappings": [
+    {
+      "hostPort": 80,
+      "containerPort": 80,
+      "protocol": "tcp"
+    }
+  ],
+  "name": "", //#TODO
+  "image": "", //#TODO
+  "cpu": 10
+}
